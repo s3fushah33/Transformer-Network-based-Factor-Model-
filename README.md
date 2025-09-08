@@ -21,6 +21,3 @@ Then open the notebook in Jupyter or VS Code and run cells in order.
 - If loading from Google Drive links, ensure sharing is set to *Anyone with the link can view* or place the CSV locally.
 - Prefer deterministic operations and seed setting for reproducibility.
 - Save artifacts (CSV/plots) to a `outputs/` folder for easier comparison between runs.
-
-## License
-MIT (add a `LICENSE` file if you want to publish under MIT or another license).
